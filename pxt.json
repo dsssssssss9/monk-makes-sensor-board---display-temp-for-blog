@@ -1,5 +1,5 @@
 {
-    "name": "Monk Makes Sensor Board - Display Temp for Blog",
+    "name": "Monk Makes Sensor Board - Display Light for Blog ",
     "description": "",
     "dependencies": {
         "core": "*",
